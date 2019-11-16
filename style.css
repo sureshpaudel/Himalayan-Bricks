@@ -1,0 +1,124 @@
+/*
+Theme Name: Himalayan Bricks
+Theme URI: https://nextaussie.com/
+Author: Suresh Paudel
+Author URI: https://paudelsuresh.com/
+Description: This wordpress theme is developed for Himalayan Bricks by te team of Next Aussie Tech.
+Version: 1.0
+Text Domain:himalayan
+Tags: himalayan,bricks
+*/
+.img.custom-logo{
+    width: 78px!important;
+    height: 60px!important;
+}
+.page-numbers{
+  background-color: #dc5539!important;
+    border-color: #f07b23 !important;
+    color: #fff!important;
+    width: 40px!important;
+    height: 40px !important;
+    margin-top: 30px !important;
+    border-top-left-radius: 4px!important;
+    border-bottom-left-radius: 4px !important;
+    padding: 10px!important;
+}
+.page-numbers:hover{
+  background-color: #000!important;
+}
+.pagenate{
+  padding-top: 40px!important;
+}
+.screen-reader-text{
+  display: none;
+}
+.rpwwt-post-title{
+  color: #404040;
+  font-weight: 600;
+  font-size: 18px!important;
+}
+#searchsubmit{
+  background-color: #dc5539!important;
+    border-color: #f07b23 !important;
+    color: #fff!important;
+    padding-left: 13px!important;
+    padding-right: 13px!important;
+}
+#rpwwt-recent-posts-widget-with-thumbnails-2{
+  padding-top: 15px!important;
+}
+#fld_8768091_1{
+  padding: 15px!important;
+}
+
+#fld_7908577_2,#fld_7908577_1{
+  background-color: #dc5539!important;
+    border-color: #f07b23 !important;
+    color: #fff!important;
+    padding-left: 13px!important;
+    padding-right: 13px!important;
+    font-size: 20px!important;
+}
+#fld_7908577_2:hover{
+  background-color: #000!important;
+}
+#fld_7908577_1:hover{
+  background-color: #000!important;
+}
+.count{
+  margin-bottom: 20px!important;
+  font-weight: 600!important;
+}
+hr.style-seven {
+    color: #fff;
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    color: #fff;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+.active_color{
+  background-color: #dc5539!important;
+  color:#fff!important;
+}
+.bdes{
+	margin-top: 120px!important;
+  color: black!important;
+  color:#000!important;
+}
+#brick{
+  height: 180px!important;
+  width: auto!important;
+}
+.download_brochure1{
+  color: #fff!important;
+}
+.download_brochure{
+  color: #fff!important;
+}
+.rec-img{
+  height: 700px!important;
+  width: auto!important;
+}
+.bri{
+  height: 200!important;
+  width: auto !important;
+}
+.title1{
+  /* color: #DC5539!important; */
+}
+.content1{
+  color: #DC5539!important;
+}
